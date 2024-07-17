@@ -1,3 +1,1 @@
-**TODO** : **Please modify this file according to the following**
-
-This directory must contain all the documents of the project. A small description of the structure and the topic/purpouse of each subdirectory.
+Critical Row Materials [CRM][https://single-market-economy.ec.europa.eu/sectors/raw-materials/areas-specific-interest/critical-raw-materials_en] 
